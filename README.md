@@ -1,24 +1,21 @@
-# finance-app
+# Finance App
 
 ## Project setup
 ```
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
 yarn serve
-```
-
-### Compiles and minifies for production
-```
 yarn build
-```
-
-### Lints and fixes files
-```
 yarn lint
 ```
+
+## build for IOS or Android
+```
+cordova build ios
+cordova build android
+```
+
+## Backend with Firebase functions
+Get the firebase functions backend here -> 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
