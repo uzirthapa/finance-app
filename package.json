@@ -24,7 +24,7 @@
     "axios": "^0.19.0",
     "core-js": "^3.3.2",
     "firebase": "^7.3.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.6.10",
     "vue-apple-signin": "^0.1.2",
     "vue-css-donut-chart": "^1.1.6",
